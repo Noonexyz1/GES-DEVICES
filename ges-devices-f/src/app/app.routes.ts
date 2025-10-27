@@ -10,5 +10,9 @@ export const routes: Routes = [
     {
         path: 'noEncontrado',
         component: Notfound
+    },
+    {
+        path: '**',
+        component: Notfound
     }
 ];
