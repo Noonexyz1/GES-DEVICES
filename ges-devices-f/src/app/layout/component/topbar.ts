@@ -52,9 +52,9 @@ import { Component } from '@angular/core';
             alt="Entel Logo"
           />
           <span class="text-entel-cyan self-center text-2xl font-semibold whitespace-nowrap dark:text-white">entel</span>
-          <span class="text-entel-naranja self-center text-2xl font-extrabold whitespace-nowrap">SYSTEM</span>
+          <span class="text-entel-naranja self-center text-2xl font-extrabold whitespace-nowrap">Devices</span>
         </a>
-        
+
       </div>
 
       <div class="flex items-center lg:order-2">
@@ -85,7 +85,7 @@ import { Component } from '@angular/core';
             >
             <span
               class="block text-sm text-gray-900 truncate dark:text-white"
-              >name@flowbite.com</span
+              >nameEmpresa.com</span
             >
           </div>
 
